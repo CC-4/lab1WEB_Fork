@@ -1,0 +1,22 @@
+jlex 
+
+Pasos:
+    espicifacion lexica 
+    escribiremos expresiones regulares
+    archivo .lex se envia al jlex
+
+
+AUTOMATAS FINITOS
+    las regex son especificaciones, una descripcion de lo que se quiere aceptar
+
+14e
+
+    *alfabeto
+
+    *estados
+
+    *estado inicial
+
+    *estado de aceptacion
+     
+    *transiciones
